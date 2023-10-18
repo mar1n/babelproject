@@ -1,2 +1,4 @@
 /node_modules
-/testproject/node_modules
+/babel6/node_modules
+/babel7/node_modules
+/babel7typescript/node_modules
